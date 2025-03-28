@@ -1,4 +1,4 @@
-# css-render &middot; [![GitHub Liscense](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/07akioni/css-render/blob/master/LICENSE) [![npm](https://img.shields.io/npm/v/css-render)](https://www.npmjs.com/package/css-render) [![Total alerts](https://img.shields.io/lgtm/alerts/g/07akioni/css-render.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/07akioni/css-render/alerts/) [![codecov](https://codecov.io/gh/07akioni/css-render/branch/master/graph/badge.svg?token=28OJZAHLK4&precision=2)](https://codecov.io/gh/07akioni/css-render)
+# css-render &middot; [![GitHub Liscense](https://img.shields.io/badge/license-MIT-blue.svg)]) [![npm](https://img.shields.io/npm/v/css-render)]() [![Total alerts](https://img.shields.io/lgtm/alerts/g/07akioni/css-render.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/07akioni/css-render/alerts/) [![codecov](https://codecov.io/gh/07akioni/css-render/branch/master/graph/badge.svg?token=28OJZAHLK4&precision=2)](https://codecov.io/gh/07akioni/css-render)
 
 Generating CSS using JS with considerable flexibility and extensibility, at both server side and client side.
 
@@ -25,9 +25,9 @@ Main differences between css-render and styled-component, jss or emotion:
 
 ## Examples
 ### Realworld Example
-- [DataTable](https://github.com/TuSimple/naive-ui/blob/main/src/data-table/src/styles/index.cssr.ts)
-- [XScroll](https://github.com/07akioni/vueuc/blob/main/src/x-scroll/src/index.ts)
-- [VirtualList](https://github.com/07akioni/vueuc/blob/main/src/virtual-list/src/VirtualList.ts)
+- [DataTable]()
+- [XScroll]()
+- [VirtualList]()
 
 ### Basic Example
 ```bash
@@ -151,6 +151,6 @@ style.unmount()
 ## Packages
 |Name|Cov|
 |-|-|
-|css-render|[![codecov](https://codecov.io/gh/07akioni/css-render/branch/master/graph/badge.svg?token=28OJZAHLK4&flag=css-render)](https://codecov.io/gh/07akioni/css-render)|
-|@css-render/plugin-bem| [![codecov](https://codecov.io/gh/07akioni/css-render/branch/master/graph/badge.svg?token=28OJZAHLK4&flag=plugin-bem)](https://codecov.io/gh/07akioni/css-render)|
-|vue3-ssr| [![codecov](https://codecov.io/gh/07akioni/css-render/branch/master/graph/badge.svg?token=28OJZAHLK4&flag=vue3-ssr)](https://codecov.io/gh/07akioni/css-render)|
+|css-render|[![codecov](https://codecov.io/gh/07akioni/css-render/branch/master/graph/badge.svg?token=28OJZAHLK4&flag=css-render)]()|
+|@css-render/plugin-bem| [![codecov](https://codecov.io/gh/07akioni/css-render/branch/master/graph/badge.svg?token=28OJZAHLK4&flag=plugin-bem)]()|
+|vue3-ssr| [![codecov](https://codecov.io/gh/07akioni/css-render/branch/master/graph/badge.svg?token=28OJZAHLK4&flag=vue3-ssr)]()|
