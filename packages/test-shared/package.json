@@ -9,7 +9,7 @@
   "devDependencies": {
     "typescript": "~4.4.4",
     "chai": "^4.2.0",
-    "@types/chai": "^4.2.11",
+    "@types/chai": "^5.2.1",
     "eslint": "~8.5.0",
     "@rushstack/eslint-config": "~2.5.1"
   },
